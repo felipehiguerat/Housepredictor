@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+backend/app/models/best_housing_predictor_pipeline.pkl filter=lfs diff=lfs merge=lfs -text
