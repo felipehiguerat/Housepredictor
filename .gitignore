@@ -25,12 +25,5 @@ temp/
 # Archivos de Jupyter Notebook (si aplica)
 .ipynb_checkpoints/
 
-# Archivos de datos grandes que NO deben subirse (como tu modelo de IA)
-# Asegúrate de reemplazar "nombre_de_tu_modelo.h5" o similares
-# con los nombres y extensiones reales de tus modelos.
-# También puedes usar un directorio si guardas varios modelos grandes.
-*.h5
-*.onnx
-*.pkl
-*.bin
-*.pt # PyTorch models
+
+
