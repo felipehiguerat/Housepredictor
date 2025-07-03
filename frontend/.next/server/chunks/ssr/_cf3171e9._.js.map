@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/felipeh/Documents/proyectos/my-housing-predictor/frontend/app/components/Header.jsx"],"sourcesContent":["\r\nconst Header=()=>{\r\n    return(\r\n    <div className=\"max-w-3xl mx-auto p-5\">\r\n        <header className=\"text-center mb-50px\">\r\n            <h1 className=\"text-[#2c3e50] text-4xl mb-2.5\"><i class=\"fas fa-home\"></i> HousePrice Predictor</h1>\r\n            <p className=\"text-[#7f8c8d] text-lg\" >Ingresa los datos de la propiedad para estimar su valor</p>\r\n        </header>\r\n        </div>\r\n        );\r\n}\r\n\r\nexport default Header;"],"names":[],"mappings":";;;;;AACA,MAAM,SAAO;IACT,qBACA,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC;YAAO,WAAU;;8BACd,8OAAC;oBAAG,WAAU;;sCAAiC,8OAAC;4BAAE,OAAM;;;;;;wBAAkB;;;;;;;8BAC1E,8OAAC;oBAAE,WAAU;8BAA0B;;;;;;;;;;;;;;;;;AAInD;uCAEe","debugId":null}},
+    {"offset": {"line": 79, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/felipeh/Documents/proyectos/my-housing-predictor/frontend/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimport Header from \"./components/Header\";\n\nexport default function Home() {\n  return (\n   <>\n    <Header />\n   </>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACC;kBACC,cAAA,8OAAC,4HAAA,CAAA,UAAM;;;;;;AAGX","debugId":null}}]
+}
