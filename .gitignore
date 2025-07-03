@@ -34,5 +34,3 @@ temp/
 *.pkl
 *.bin
 *.pt # PyTorch models
-backend/app/models/best_housing_predictor_pipeline.pkl
-backend/app/models/ # O la carpeta donde guardes tus modelos grandes

@@ -34,4 +34,3 @@ temp/
 *.pkl
 *.bin
 *.pt # PyTorch models
-models/ # O la carpeta donde guardes tus modelos grandes
