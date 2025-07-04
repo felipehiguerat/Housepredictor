@@ -32,7 +32,7 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 **Backend (Python):**
 * **Python:** Lenguaje de programación principal.
 * **scikit-learn:** Para la construcción y entrenamiento del modelo de Machine Learning.
-* **Flask:** Framework web para la API REST del backend.
+* **Fastapi:** Framework web para la API REST del backend.
 * **Joblib:** Para serializar y deserializar el modelo de IA.
 
 **Frontend (Web):**
